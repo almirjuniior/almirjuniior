@@ -9,4 +9,18 @@ Here are some ideas to get you started:
 
 Técnico em Redes de Computadores 
 
-- ⚡ Curiosidades: 🍕 ☕ 🎮 💻
+<hr />
+
+#### Conhecimentos 
+
+- Cisco IOS
+- Debian Server
+- Microsoft Windows
+- Microsoft Windows Server
+- Microsoft Azure:
+  * AZ-900 🔜 
+  * SC-900 ✔
+ 
+#### Alguns fatos sobre mim
+
+- Curiosidades: 🍕 ☕ 🎮 💻
